@@ -2,15 +2,10 @@ package com.stepdefinition;
 
 import java.util.List;
 import java.util.Map;
-
-import org.openqa.selenium.WebElement;
-
 import com.objectrepository.AddCustomer;
 import com.objectrepository.HomePage;
 import com.resource.FunctionalLibrary;
-
 import cucumber.api.java.en.Given;
-import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import io.cucumber.datatable.DataTable;
 

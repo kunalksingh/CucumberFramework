@@ -1,4 +1,4 @@
-@Kunal
+@tag @tag1
 Feature: Tarrif plan
   I want to use this template for my feature file
 

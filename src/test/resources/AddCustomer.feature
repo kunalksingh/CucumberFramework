@@ -1,4 +1,4 @@
-@Smoke
+@tag @tag1
 Feature: Telecome feature
   I want to use this template for my feature file
 

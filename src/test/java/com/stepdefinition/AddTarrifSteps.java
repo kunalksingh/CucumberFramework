@@ -2,8 +2,6 @@ package com.stepdefinition;
 
 
 import java.util.List;
-
-import com.objectrepository.AddCustomer;
 import com.objectrepository.AddTarrif;
 import com.objectrepository.HomePage;
 import com.resource.FunctionalLibrary;
